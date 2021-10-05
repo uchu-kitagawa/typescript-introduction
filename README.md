@@ -1,2 +1,2 @@
-# typescript-introduction2
+# typescript-introduction
 Created with CodeSandbox
